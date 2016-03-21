@@ -1,0 +1,14 @@
+c:\users\shuvro\documents\visual studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\LoginAuth.exe.config
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.csprojResolveAssemblyReference.cache
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.Informations.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.Properties.Resources.resources
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.csproj.GenerateResource.Cache
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\LoginAuth.exe
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\LoginAuth.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\MetroFramework.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.exe
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\obj\Debug\LoginAuth.pdb
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\AdminLoginDb.mdf
+C:\Users\Shuvro\Documents\Visual Studio 2013\Projects\LoginAuth\LoginAuth\bin\Debug\AdminLoginDb_log.ldf
